@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-04)
+## Unreleased (2026-01-12)
 
 <section class="issues">
 
@@ -24,7 +24,8 @@ This release closes the following issue:
 
 <details>
 
--   [`a5bfb5a`](https://github.com/stdlib-js/stdlib/commit/a5bfb5a1845c37d0091853d303e4b65fd0cf2081) - **chore:** fix C lint errors [(#7218)](https://github.com/stdlib-js/stdlib/pull/7218) _(by zhanggy)_
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
+-   [`a5bfb5a`](https://github.com/stdlib-js/stdlib/commit/a5bfb5a1845c37d0091853d303e4b65fd0cf2081) - **chore:** fix C lint errors [(#7218)](https://github.com/stdlib-js/stdlib/pull/7218) _(by Geo Daoyu)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -41,8 +42,8 @@ This release closes the following issue:
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Geo Daoyu
 -   Philipp Burckhardt
--   zhanggy
 
 </section>
 
